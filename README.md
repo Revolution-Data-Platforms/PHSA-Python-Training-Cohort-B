@@ -1,4 +1,4 @@
-# PHSA Python Training (Cohort A)
+# PHSA Python Training (Cohort B)
 
 This repository will host lesson material, projects and solution code for the PHSA Python training course. 
 
