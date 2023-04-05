@@ -1,0 +1,13 @@
+print("Welcome to Personal Information Manager!")
+name = input("Please enter your name: ")
+age = int(input("Please enter your age: "))
+address = input("Please enter your address: ")
+email = input("Please enter your email: ")
+phone = input("Please enter your phone number: ")
+
+print("\nYour information has been saved:")
+print("Name:", name)
+print("Age:", age)
+print("Address:", address)
+print("Email:", email)
+print("Phone Number:", phone)
